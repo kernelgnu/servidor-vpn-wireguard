@@ -1,6 +1,6 @@
 # WireGuard VPN Server + Monitoramento
 
-📅 **Última atualização**: 12/07/2025  
+📅 **Última atualização**: 13/07/2025  
 🛡️ **Autor**: Guilherme (Consultor em Cibersegurança | Infraestrutura | SOC / Blue Team)
 
 ## 📌 Descrição
@@ -19,7 +19,6 @@ Tudo isso com foco em **segurança**, **visibilidade operacional** e **controle 
 ## ⚙️ Tecnologias Utilizadas
 
 - [WireGuard](https://www.wireguard.com/) – VPN moderna, rápida e segura
-- [Cockpit](https://cockpit-project.org/) – Painel de administração web
 - `cron`, `iptables`, `bash`, `journalctl`
 
 ---
